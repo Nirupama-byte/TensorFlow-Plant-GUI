@@ -2,7 +2,7 @@
 
 This project is a desktop application that uses a deep learning model to identify 10 different tomato plant diseases. The app is built with Python, using a Convolutional Neural Network (CNN) trained with TensorFlow/Keras and a modern user interface built with CustomTkinter.
 
-![App Screenshot](Screenshot.png)
+[App Screenshot](Screenshot 2025-10-19 002720.png)
 
 
 ---
@@ -29,9 +29,7 @@ This project is a desktop application that uses a deep learning model to identif
 1.  **Clone or Download the Repository:**
     ```bash
     git clone (https://github.com/Nirupama-byte/TensorFlow-Plant-GUI.git)
-    cd Your-Repo-Name
-    ```
-    *(Remember to replace `YourUsername` and `Your-Repo-Name`)*
+  
 
 2.  **Install the Required Libraries:**
     Make sure you have Python installed, then run:
